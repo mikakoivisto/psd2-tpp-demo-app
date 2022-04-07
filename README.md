@@ -36,7 +36,7 @@ Place certificates to `certs/client-cert/psd2-sandbox-prod/client.crt`, `certs/c
 
 - Configure required secrets
 
-You can configure secrets to `psd2-sandbox-prod.localhost.secrets` or `fargate-deployment/bin/psd2-tpp-demo-conf.example.ts` depending whether you run the service locally or in AWS.
+You can configure secrets to `psd2-sandbox-prod.localhost.secrets`.
 
 ```bash
 # env/psd2-sandbox-prod.localhost.secrets
